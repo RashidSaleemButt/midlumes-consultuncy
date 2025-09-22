@@ -1,0 +1,28 @@
+{
+  "trainingClasses": [
+    {
+      "id": "chest",
+      "name": "Chest Training",
+      "details": "Focus on upper, middle, and lower chest development.",
+      "focusAreas": [
+        "Incline Bench Press – Targets upper chest",
+        "Flat Bench Press – Builds overall mass",
+        "Decline Bench Press – Emphasizes lower chest",
+        "Cable Fly – Isolation and stretch",
+        "Push-ups – Bodyweight endurance"
+      ]
+    },
+    {
+      "id": "back",
+      "name": "Back Training",
+      "details": "Target lats, traps, and spinal erectors for a strong and wide back.",
+      "focusAreas": [
+        "Deadlift – Full posterior chain",
+        "Lat Pulldown – Width and lat activation",
+        "Barbell Row – Mid-back thickness",
+        "T-Bar Row – Deep contraction",
+        "Face Pulls – Rear delts and traps"
+      ]
+    }
+  ]
+}

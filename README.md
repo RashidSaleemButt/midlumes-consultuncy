@@ -1,27 +1,16 @@
-# Medlumes Consultancy – Career Guidance Platform
+# TrainingStudio Template 
+### A multi-section one-page ReactJS Template
 
-> Helping you discover, plan, and grow your career with expert counseling and smart tools.
+Suitable for gym, fitness club, and Yoga club websites. This layout has a video background banner, content tabs, schedule table, and contact form. You can adapt any section or content as you wish.
 
----
+### Preview Link https://matthew-19.github.io/TrainingStudio/
 
-## 🚀 About the Project
-**Medlumes Consultancy** is a modern web platform designed to support students, graduates, and professionals in choosing and growing their careers.  
-We offer personalized guidance, career assessments, and resources to help you make confident decisions.
 
----
+# Features
 
-## ✨ Features
-- 🧭 **Career Assessments** – Identify your strengths and interests  
-- 🎯 **Personalized Counseling** – Get 1:1 guidance from experts  
-- 📚 **Learning Resources** – Blogs, tips, and career advice  
-- 📅 **Easy Session Booking** – Schedule consultations online  
-- 📊 **Progress Tracking** – Monitor your career growth
-
----
-
-## 🛠️ Tech Stack
-- **Frontend:** React, Vite, Tailwind CSS  
-- **Backend (optional):** Node.js / Express  
-- **Deployment:** Vercel / Netlify / GitHub Pages
-
----
+- 📱Fully Responsive
+- 🌙 Dark Mode
+- 💥Dynamic Navigation Bar
+  - Section NavLink highlighted for currently visible section.
+- 🛠️ Edit Template Data
+  - Can change various data, found in JSON files, of the template sections
