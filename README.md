@@ -3,7 +3,6 @@
 
 Suitable for gym, fitness club, and Yoga club websites. This layout has a video background banner, content tabs, schedule table, and contact form. You can adapt any section or content as you wish.
 
-### Preview Link https://matthew-19.github.io/TrainingStudio/
 
 
 # Features
